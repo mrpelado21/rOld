@@ -72,6 +72,6 @@ extract the zip and place the ngrok.exe in Windows dir
 ```bash
 sudo python3 rOld.py
 ```
-# Credit
+# Creditos
 
-Project Leader: [Alejandro B.](https://github.com/mrdybalex)
+Creador y Desarrollo: [Yop](https://github.com/mrdybalex)
