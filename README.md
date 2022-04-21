@@ -1,15 +1,15 @@
 
 <h1 align="center">
 
-  rOld Phising
+  rOld Phising Tool
 
 </h1>
 
-# in BETA
+# en BETA
 
 Actualmente nos encontramos en Modo BETA
 
-# Compatibility
+# Compatibilidad
 
 - Ubuntu 18.04.1 (Tested)
 
@@ -19,7 +19,7 @@ Actualmente nos encontramos en Modo BETA
 
 - Termux (In progress)
 
-# Requirements
+# Requisitos
 
 - Compatible System
 
@@ -31,7 +31,7 @@ Actualmente nos encontramos en Modo BETA
 
 - npm
 
-# Installation
+# Instalacion
 
 This will install Git
 
@@ -67,18 +67,11 @@ https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip
 extract the zip and place the ngrok.exe in Windows dir
 ```
 
-# Usage
+# Uso
 
 ```bash
 sudo python3 rOld.py
 ```
-
-# Update
-
-```bash
-./update.sh
-```
-
 # Credit
 
-Project Leader: [MrDybalex](https://github.com/mrdyalex)
+Project Leader: [Alejandro B.](https://github.com/mrdybalex)
