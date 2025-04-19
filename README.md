@@ -65,4 +65,4 @@ sudo python3 rOld.py
 ```
 # Creditos
 
-Creador y Desarrollo: [Yop](https://github.com/mrdybalex)
+Creador y Desarrollo: [Yooo](https://github.com/mrpelado21)
